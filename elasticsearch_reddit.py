@@ -27,6 +27,10 @@ import requests
 from elasticsearch import Elasticsearch
 
 
+class Reddit():
+    pass
+
+
 def main():
     es = Elasticsearch()
     
